@@ -1,4 +1,3 @@
-![Header](./[https://www.behance.net/gallery/68097599/Banner-Images-for-Coding-Challenges])
 <h1 align="center">Hi 👋, I'm Hossein</h1>
 <h3 align="center">A passionate developer from Poland</h3>
 <img align="right" alt="Coding" width="400" src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif">
