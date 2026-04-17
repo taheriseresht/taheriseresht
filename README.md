@@ -181,23 +181,21 @@ curl -X POST https://shayan.dev/contact \
 ```yaml
 # ~/.config/shayan.yaml
 
-workstation:
+workstations(windows):
   cpu: Ryzen 9 9950X3D       # the beast
   gpu: RX 9070 OC Prime
   ram: 64GB DDR5 5200MHz
   storage: 2× 1TB NVMe M.2
   cooling: Kraken RGB 360 AIO
   case: NZXT H7 Flow RGB
+  
+  Mac Mini M4 aka "The mini Soldier"
 
 laptop:
   model: MacBook Pro 14" M4 Pro
   ram: 24GB Unified
   storage: 512GB
 
-mobile:
-  daily_driver: iPhone 14 Pro Max
-  secondary: Samsung Galaxy S24 Ultra
-  tablet: iPad Pro 12.9"
 
 editor: Neovim + VSCode
 terminal: iTerm2 / Alacritty
