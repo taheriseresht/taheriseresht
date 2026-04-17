@@ -106,14 +106,14 @@ print(me)
 
 ## 📊 `git log --stats`
 
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=YOUR_GITHUB_USERNAME&show_icons=true&theme=github_dark&include_all_commits=true&count_private=true&hide_border=true&bg_color=0d1117&title_color=00ff88&icon_color=58a6ff&text_color=e6edf3"/>
-<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_GITHUB_USERNAME&layout=compact&langs_count=8&theme=github_dark&hide_border=true&bg_color=0d1117&title_color=00ff88&text_color=e6edf3"/>
+<img height="180em" src="https://github-readme-stats.vercel.app/api?username=taheriseresht&show_icons=true&theme=github_dark&include_all_commits=true&count_private=true&hide_border=true&bg_color=0d1117&title_color=00ff88&icon_color=58a6ff&text_color=e6edf3"/>
+<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=taheriseresht&layout=compact&langs_count=8&theme=github_dark&hide_border=true&bg_color=0d1117&title_color=00ff88&text_color=e6edf3"/>
 
 </div>
 
 <div align="center">
 
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=YOUR_GITHUB_USERNAME&theme=github-dark-blue&hide_border=true&background=0d1117&stroke=00ff88&ring=58a6ff&fire=ff7b72&currStreakLabel=00ff88&sideLabels=58a6ff&dates=8b949e" alt="GitHub Streak"/>
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=taheriseresht&theme=github-dark-blue&hide_border=true&background=0d1117&stroke=00ff88&ring=58a6ff&fire=ff7b72&currStreakLabel=00ff88&sideLabels=58a6ff&dates=8b949e" alt="GitHub Streak"/>
 
 </div>
 
@@ -124,9 +124,9 @@ print(me)
 ## 🐍 `watch -n 1 git commit`
 
 <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/YOUR_GITHUB_USERNAME/YOUR_GITHUB_USERNAME/output/github-contribution-grid-snake-dark.svg">
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/YOUR_GITHUB_USERNAME/YOUR_GITHUB_USERNAME/output/github-contribution-grid-snake.svg">
-  <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/YOUR_GITHUB_USERNAME/YOUR_GITHUB_USERNAME/output/github-contribution-grid-snake-dark.svg">
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/taheriseresht/taheriseresht/output/github-contribution-grid-snake-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/taheriseresht/taheriseresht/output/github-contribution-grid-snake.svg">
+  <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/taheriseresht/taheriseresht/output/github-contribution-grid-snake-dark.svg">
 </picture>
 
 > 💡 To enable the snake: [follow this guide](https://github.com/Platane/snk) — it auto-generates a contribution snake SVG via GitHub Actions.
@@ -137,9 +137,9 @@ print(me)
 
 <div align="center">
 
-## 🏆 `ls ./trophies`
+## 📈 `git log --graph`
 
-<img src="https://github-profile-trophy.vercel.app/?username=YOUR_GITHUB_USERNAME&theme=darkhub&no-frame=true&no-bg=true&column=7&margin-w=6" alt="GitHub Trophies"/>
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=taheriseresht&bg_color=0d1117&color=00ff88&line=58a6ff&point=ff7b72&area=true&hide_border=true" alt="Contribution Graph"/>
 
 </div>
 
@@ -153,7 +153,8 @@ print(me)
 
 [![X / Twitter](https://img.shields.io/badge/X_(Twitter)-000000?style=for-the-badge&logo=x&logoColor=white)](https://x.com/YOUR_X_HANDLE)
 [![Telegram](https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white)](https://t.me/YOUR_TELEGRAM)
-[![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://instagram.com/YOUR_INSTAGRAM)
+[![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://instagram.com/ts_hossein)
+[![Instagram](https://img.shields.io/badge/Instagram_(2)-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://instagram.com/share.pol)
 [![Mastodon](https://img.shields.io/badge/Mastodon-6364FF?style=for-the-badge&logo=mastodon&logoColor=white)](https://mastodon.social/@YOUR_MASTODON)
 
 <br/>
@@ -181,21 +182,22 @@ curl -X POST https://shayan.dev/contact \
 ```yaml
 # ~/.config/shayan.yaml
 
-workstations(windows):
+workstation:
   cpu: Ryzen 9 9950X3D       # the beast
   gpu: RX 9070 OC Prime
   ram: 64GB DDR5 5200MHz
   storage: 2× 1TB NVMe M.2
   cooling: Kraken RGB 360 AIO
   case: NZXT H7 Flow RGB
-  
-  Mac Mini M4 aka "The mini Soldier"
 
 laptop:
   model: MacBook Pro 14" M4 Pro
   ram: 24GB Unified
   storage: 512GB
 
+desktop_apple:
+  model: Mac Mini M4
+  purpose: AI workloads + local LLMs
 
 editor: Neovim + VSCode
 terminal: iTerm2 / Alacritty
@@ -212,7 +214,7 @@ os_server: Arch Linux / Ubuntu
 
 <div align="center">
 
-<img src="https://komarev.com/ghpvc/?username=YOUR_GITHUB_USERNAME&label=profile+views&color=00ff88&style=flat-square" alt="profile views"/>
+<img src="https://komarev.com/ghpvc/?username=taheriseresht&label=profile+views&color=00ff88&style=flat-square" alt="profile views"/>
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,50:00ff88,100:0d1117&height=80&section=footer" width="100%"/>
 
